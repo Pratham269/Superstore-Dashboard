@@ -16,6 +16,8 @@ Dataset: Kaggle - Superstore Sales
 
 🧑‍💻 Author
 Prathmesh Shimpi
+
 📫 LinkedIn: www.linkedin.com/in/prathamesh-shimpi-583922247
+
 🌐 GitHub: https://github.com/Pratham269
 

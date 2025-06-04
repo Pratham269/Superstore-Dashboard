@@ -1,6 +1,7 @@
 # Superstore-Dashboard
 
 This project showcases a dynamic Excel dashboard built using sales data from the Kaggle Sample Superstore Dataset. It includes data cleaning, analysis, and visualization to deliver key business insights.
+
 🔍 Features
 Interactive filters (Region, City)
 Year-wise Sales & Profit trends
